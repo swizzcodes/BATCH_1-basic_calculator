@@ -36,5 +36,5 @@ if choice in ('1', '2', '3', '4'):
 else:
     print("Invalid input")
 
-if name == "main":         
-    calculator()
+if _name_ == "_main_":       
+      calculator()
